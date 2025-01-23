@@ -9,7 +9,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 
 **About me**
 
-- 💼 Aspiring Software Engineer for x86_64 CPU architectures both AMD/INTEL
+- 💼 Aspiring Software Engineer for x86_64 CPU architectures both ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=for-the-badge) / ![Intel Badge](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)
 - ☠️ Malware Developer/Mid-Reverse Engineer(getting better is all that matters)
 - ❤️ The C Programming Language
 - 💬 Ask me about anything [here!](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
@@ -49,7 +49,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 | ------------- | ------------- |
 
 <!-- Top Repositories Section -->
-<p align="center" style="font-size: 24px; font-weight: bold; color: white; line-height: 1.6;">Top Repositories</p>
+#### My Top  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) Repo's
 
 <!-- Repository Pins -->
 <p align="center">
