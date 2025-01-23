@@ -10,7 +10,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 **About me**
 
 - 💼 Aspiring Software Engineer for x86_64 CPU architectures both AMD/INTEL
-- 📈 Malware Developer/Mid-Reverse Engineer(getting better all that matters)
+- 📈 Malware Developer/Mid-Reverse Engineer(getting better is all that matters)
 - ❤️ The C Programming Language
 - 💬 Ask me about anything [here!](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
 - [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)  is my operating system of choice
