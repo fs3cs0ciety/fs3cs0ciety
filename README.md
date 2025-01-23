@@ -9,11 +9,11 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 
 **About me**
 
-- 💼 Aspiring Software Engineer for x86_64 CPU architectures both ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=for-the-badge) / ![Intel Badge](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)
-- ☠️ Malware Developer/Mid-Reverse Engineer(getting better is all that matters)
-- ❤️ The C Programming Language
+- 📈 Aspiring Security Software Engineer for x86_64 CPU architectures both ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=for-the-badge) / ![Intel Badge](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)
+- :japanese_goblin: Malware Developer/Mid-Reverse Engineer(getting better is all that matters)
+- :muscle: The C Programming Language
 - 💬 Ask me about anything [here!](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
-- [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)  is my operating system of choice
+- [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/download/)  is my operating system of choice
 - Fully open to any collabs just hit me up! [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/d3dsec.ko)
 
 **Languages and Technologies I Know**
