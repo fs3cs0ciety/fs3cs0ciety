@@ -1,5 +1,6 @@
-## Hi there 👋
+## Stats
 
+![fs3c's github stats](https://github-readme-stats.vercel.app/api?username=fs3cs0ciety&show_icons=true&theme=dracula)
 <!--
 **fs3cs0ciety/fs3cs0ciety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
