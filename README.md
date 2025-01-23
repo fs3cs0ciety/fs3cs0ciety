@@ -31,7 +31,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States ðŸ‡ºðŸ‡
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/en-US)
 
-**Operating systems and Text Editors that I use**
+**Operating Systems and Text Editors that I use**
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://learn.microsoft.com/en-us/windows/)
