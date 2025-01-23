@@ -9,10 +9,10 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 
 **About me**
 
-- 💼 Aspiring Software Engineer
+- 💼 Aspiring Software Engineer for x86_64 CPU architectures both AMD/INTEL
 - 📈 Malware Developer
 - ❤️ The C Programming Language
-- 💬 Ask me about anything [here](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
+- 💬 Ask me about anything [here!](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
 
 ---
 
