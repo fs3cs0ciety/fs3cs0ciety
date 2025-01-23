@@ -45,7 +45,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States ðŸ‡ºðŸ‡
 
 <!-- Stats Section with GitHub Stats Charts -->
 
-| <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fs3cs0ciety&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fs3c's github stats" /></a> | <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs3cs0ciety&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fs3cs0ciety&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Fs3c's github stats" /></a> | <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs3cs0ciety&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- Top Repositories Section -->
@@ -54,7 +54,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States ðŸ‡ºðŸ‡
 <!-- Repository Pins -->
 <p align="center">
   
-  | <a href="https://github.com/fs3cs0ciety/Rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=Rootkit&show_owner=true&theme=dracula" /></a> | <a href="https://github.com/fs3cs0ciety/linux-rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=linux-rootkit&show_owner=true&theme=dracula" /></a> |
+  | <a href="https://github.com/fs3cs0ciety/Rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=Rootkit&show_owner=true&theme=transparent" /></a> | <a href="https://github.com/fs3cs0ciety/linux-rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=linux-rootkit&show_owner=true&theme=transparent" /></a> |
   | ------------- | ------------- |
 </p>
 
