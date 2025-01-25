@@ -16,6 +16,7 @@ I'm a self-taught passionate Low-Level Programmer from the United States ðŸ‡ºðŸ‡
 - [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/download/)  is my operating system of choice
 - Fully open to any collabs just hit me up! [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/d3dsec.ko)
 
+![](https://komarev.com/ghpvc/?username=fs3cs0ciety)
 **Languages and Technologies I Know**
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.learn-c.org/)
