@@ -10,7 +10,6 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 **About me**
 
 - 📈 Aspiring Security Software Engineer for x86_64 CPU architectures
-- :japanese_goblin: Malware Developer/Mid-Reverse Engineer(getting better is all that matters)
 - :muscle: The C Programming Language
 - 💬 Ask me about anything [here!](https://github.com/fs3cs0ciety/fs3cs0ciety/issues)
 - [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/download/)  is my distro of choice
@@ -34,30 +33,6 @@ I'm a self-taught passionate Low-Level Programmer from the United States 🇺�
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/en-US)
 
-**Operating Systems and Text Editors that I use**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/torvalds/linux)
-[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://learn.microsoft.com/en-us/windows/)
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
-
 ---
-
-<!-- Stats Section with GitHub Stats Charts -->
-
-| <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fs3cs0ciety&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Fs3c's github stats" /></a> | <a href="https://github.com/fs3cs0ciety"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs3cs0ciety&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!-- Top Repositories Section -->
-#### My Top  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) Repo's
-
-<!-- Repository Pins -->
-<p align="center">
-  
-  | <a href="https://github.com/fs3cs0ciety/Rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=Rootkit&show_owner=true&theme=transparent" /></a> | <a href="https://github.com/fs3cs0ciety/linux-rootkit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fs3cs0ciety&repo=linux-rootkit&show_owner=true&theme=transparent" /></a> |
-  | ------------- | ------------- |
-</p>
-
-<br />
 
 
